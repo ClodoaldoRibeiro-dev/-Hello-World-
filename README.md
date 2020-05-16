@@ -1,2 +1,4 @@
 # -Hello-World-
 just another repository
+Experiência generalizada em empresas de pequeno e médio porte, com atuação em imobiliárias, indústria, comércio, institutos de pesquisas e serviços de transporte (na modalidade TAXI) em SP. Comunicativo, expressivo, organizado, empreendedor, proativo, comprometido com desafios de desenvolvimento, atualmente estudando Gestão e Planejamento Organizacional. Perfil técnico , "facilities services", e compreensão jurídica . Elaboração de planilhas orçamentos e balancetes em “excel”, apresentações de propostas e
+redação de textos , relatórios, cotações, coordenação de reuniões, elaboração de atas, arquivos de documentos, atendimento ao publico presencial , por telefone e por mídias , desenvoltura em sistemas com lógica de programação e algoritmos. Projetos e diagramações em designer gráfico e produção de conteúdos para web
